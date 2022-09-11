@@ -35,7 +35,7 @@ JavaFX:
 
 
 DIRECTIONS TO RUN:
-Start the executable program, type the correct credentials then click the login button!
+Start the executable program, type the correct credentials then click on the login button!
 
 
 ADDITIONAL REPORT DETAILS:
