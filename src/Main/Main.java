@@ -35,5 +35,6 @@ public class Main extends Application {
         CollectionManagement.setAllMonths();
         launch(args);
         DBConnection.closeConnection();
+
     }
 }
